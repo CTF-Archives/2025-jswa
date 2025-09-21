@@ -1,0 +1,6 @@
+Reverse-1
+题目描述：
+name：game
+sn：93d6ff71ac1a7b551cc29e16f055d678
+尝试解出HCTF用户的SN码作为flag值提交
+文件：SignMe.zip
